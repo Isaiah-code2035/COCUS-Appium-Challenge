@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Itzel",
+        "last": "Parra"
+      },
+      "location": {
+        "street": {
+          "number": 988,
+          "name": "Continuación Nayarit"
+        },
+        "city": "Juan Aldama (El Tigre)",
+        "state": "Nayarit",
+        "country": "Mexico",
+        "postcode": 61827,
+        "coordinates": {
+          "latitude": "27.6228",
+          "longitude": "81.4035"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "itzel.parra@example.com",
+      "login": {
+        "uuid": "7afa1768-9618-43d7-b4c5-8f3792954e29",
+        "username": "goldenlion996",
+        "password": "sassy1",
+        "salt": "zdFp2DRr",
+        "md5": "882a54030807c69831cf13bb7175c715",
+        "sha1": "32599403e2ff751442fcf7a492a07f0c83d6d873",
+        "sha256": "7556633a16b1a45ef6d9a4d333773a55e43d904ebbe5ab3fb97f52e5be8ff565"
+      },
+      "dob": {
+        "date": "1956-11-28T17:20:45.091Z",
+        "age": 65
+      },
+      "registered": {
+        "date": "2011-07-07T01:44:24.069Z",
+        "age": 11
+      },
+      "phone": "(616) 328 1518",
+      "cell": "(689) 552 8923",
+      "id": {
+        "name": "NSS",
+        "value": "24 16 73 5468 8"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+      },
+      "nat": "MX"
+    }
+  ],
+  "info": {
+    "seed": "2cc815bfc6f041df",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
